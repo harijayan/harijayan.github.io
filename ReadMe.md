@@ -1,5 +1,5 @@
-###HI
-I am #Hari Jayan  
+### HI  
+I am **Hari Jayan**  
 an animation filmmaker living in Kolkata, IN  
 
 Check out my works [Here]  
